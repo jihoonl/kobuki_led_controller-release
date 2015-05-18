@@ -1,0 +1,12 @@
+Source: ros-indigo-kobuki-led-controller
+Section: misc
+Priority: extra
+Maintainer: Jihoon Lee <jihoonlee.in@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-kobuki-msgs, ros-indigo-rospy
+Homepage: http://wiki.ros.org/kobuki_led_controller
+Standards-Version: 3.9.2
+
+Package: ros-indigo-kobuki-led-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-kobuki-msgs, ros-indigo-rospy
+Description: Convenient modules to control kobuki leds

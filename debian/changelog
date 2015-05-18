@@ -1,0 +1,9 @@
+ros-indigo-kobuki-led-controller (0.0.1-0saucy) saucy; urgency=high
+
+  * kobuki led controller init
+  * Initial commit
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 17 May 2015 15:00:00 -0000
+
+
